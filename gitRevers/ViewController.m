@@ -15,6 +15,15 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    UILabel *lableTest = [[UILabel alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
+    
+    lableTest.font = [UIFont systemFontOfSize:18];
+    
+    lableTest.text = @"git测试";
+    lasdfjslkdf
+    
+    
     // Do any additional setup after loading the view.
 }
 
