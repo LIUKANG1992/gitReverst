@@ -22,7 +22,7 @@
     
     lableTest.text = @"git测试";
     lableTest.textColor =[UIColor redColor];
-    
+    lableTest.textAlignment = NSTextAlignmentRight;
     
     // Do any additional setup after loading the view.
 }
