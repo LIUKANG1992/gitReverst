@@ -21,7 +21,7 @@
     lableTest.font = [UIFont systemFontOfSize:18];
     
     lableTest.text = @"git测试";
-    lasdfjslkdf
+    lableTest.textColor =[UIColor redColor];
     
     
     // Do any additional setup after loading the view.
